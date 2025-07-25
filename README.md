@@ -52,7 +52,8 @@ Feel free to explore my work and reach out if you'd like to connect!
 
 ## 🎓 Certifications
 
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [Deloitte Australia Data Analytics Virtual Experience | Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_TEzgYQTKLzFDPuX3h_1746984281529_completion_certificate.pdf)
+-  [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 - [SQL for Data Science – Coursera](https://www.coursera.org/learn/sql-for-data-science)
 - [Data Analysis with Python – freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 - [Data Visualization with Tableau – Coursera](https://www.coursera.org/learn/visualization-with-tableau)
