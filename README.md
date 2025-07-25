@@ -11,7 +11,26 @@ My CV in [resume](https://github.com/diyaaa148/Data-Analysis-Portfolio/blob/main
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 Feel free to explore my work and reach out if you'd like to connect!
 
+## Table of Contents
+- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - Python
+    - [Exploratory Data Analysis on COVID-19 Dataset](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [ Sales Data Dashboard (Excel + Power BI)](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [ Survey Data Analysis (Capstone Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+ - SQL
+    - [ Sales Data Analysis (SQL)](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+    - [ Customer Churn Analysis (SQL)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [ E-commerce Funnel Analysis]
+    - [ Hotel Bookings Data Insights]
+  - Excel / Google Sheets
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Power BI
+  
 
+
+- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Projects
 
 ### 1. Exploratory Data Analysis on COVID-19 Dataset
@@ -24,7 +43,7 @@ Feel free to explore my work and reach out if you'd like to connect!
 - **Tools**: Excel, Power BI / Tableau
 - 🔗 [View Project](https://github.com/yourusername/sales-dashboard)
 
-### 4. Survey Data Analysis (Capstone Project)
+### 3. Survey Data Analysis (Capstone Project)
 - **Description**: Analyzed survey responses from a public dataset (e.g., Kaggle, Pew Research) to extract insights and visualize key findings.
 - **Tools**: R or Python, ggplot2 / Matplotlib
 - 🔗 [View Project](https://github.com/yourusername/survey-analysis)
