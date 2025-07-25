@@ -6,7 +6,7 @@ During my academic journey, I developed key skills in data manipulation, explora
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [resume](file:///C:/Users/DELL/Desktop/diya_resume.pdf).
+My CV in [resume](https://Users/DELL/Desktop/diya_resume.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 Feel free to explore my work and reach out if you'd like to connect!
