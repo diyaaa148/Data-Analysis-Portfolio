@@ -2,7 +2,7 @@
 ## About
 Hi, I'm Diya! I hold a degree in Statistics and have a strong passion for turning raw data into meaningful insights. With a solid foundation in statistical theory and applied data analysis, I am now focused on building a career as a Data Analyst.
 
-During my academic journey, I developed key skills in data manipulation, exploratory data analysis, and statistical modeling. I am proficient in tools such as Python, R, SQL, Excel, and data visualization libraries like Matplotlib, Seaborn, and Tableau. I enjoy uncovering patterns and trends in data and presenting them through clear, insightful visualizations.
+During my academic journey, I developed key skills in data manipulation, exploratory data analysis, and statistical modeling. I am proficient in tools such as Python, R, SQL, Excel, Power BI and data visualization libraries like Matplotlib, Seaborn, and Tableau. I enjoy uncovering patterns and trends in data and presenting them through clear, insightful visualizations.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
