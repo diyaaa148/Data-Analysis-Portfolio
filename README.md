@@ -12,25 +12,25 @@ This is a repository to showcase skills, share projects and track my progress in
 Feel free to explore my work and reach out if you'd like to connect!
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About]()
+- [Portfolio Projects]()
   - Python
-    - [Exploratory Data Analysis on COVID-19 Dataset](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [ Sales Data Dashboard (Excel + Power BI)](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
-    - [ Survey Data Analysis (Capstone Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Exploratory Data Analysis on COVID-19 Dataset]()
+    - [ Sales Data Dashboard (Excel + Power BI)]()  
+    - [ Survey Data Analysis (Capstone Project)]()
  - SQL
-    - [ Sales Data Analysis (SQL)](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-    - [ Customer Churn Analysis (SQL)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [ Sales Data Analysis (SQL)]()
+    - [ Customer Churn Analysis (SQL)]()
     - [ E-commerce Funnel Analysis]
     - [ Hotel Bookings Data Insights]
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Tableau---> [go to Tableau..]()
   - Power BI
   
 
 
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Certificates]()
+- [Contact]()
 ## Projects
 
 ### 1. Exploratory Data Analysis on COVID-19 Dataset
