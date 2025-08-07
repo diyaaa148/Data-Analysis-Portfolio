@@ -16,8 +16,11 @@ Feel free to explore my work and reach out if you'd like to connect!
 - [Portfolio Projects]()
   - Python
     - [Exploratory Data Analysis on COVID-19 Dataset]()
-    - [ Sales Data Dashboard (Excel + Power BI)]()  
-    - [ Survey Data Analysis (Capstone Project)]()
+    - [Diwali Sales Data Analysis | EDA Project](https://github.com/diyaaa148/python-project/blob/main/python_project.ipynb)
+
+ - Power BI
+     - [Air Quality Analysis Dashboard (Excel + Power BI)](https://github.com/diyaaa148/air-quality-report/blob/main/Air%20quality%20report.pbit)
+  
  - SQL
     - [ Sales Data Analysis (SQL)]()
     - [ Customer Churn Analysis (SQL)]()
@@ -25,7 +28,6 @@ Feel free to explore my work and reach out if you'd like to connect!
     - [ Hotel Bookings Data Insights]
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..]()
-  - Power BI
   
 
 
